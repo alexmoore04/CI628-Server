@@ -45,7 +45,7 @@ import javafx.scene.shape.Rectangle;
 import static com.almasb.fxgl.dsl.FXGL.*;
 
 /**
- * @author Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)
+ * @author Alex Moore (AlexM) (Alexstephenmoore@gmail.com)
  */
 public class FightClub implements EntityFactory {
 
