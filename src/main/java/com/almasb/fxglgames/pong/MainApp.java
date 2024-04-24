@@ -55,10 +55,8 @@ import java.util.concurrent.BlockingQueue;
 import static com.almasb.fxgl.dsl.FXGL.*;
 
 /**
- * A simple clone of Pong.
- * Sounds from https://freesound.org/people/NoiseCollector/sounds/4391/ under CC BY 3.0.
  *
- * @author Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)
+ * @author Alex Moore (alexmoore04) (Alexstephenmoore@gmail.com)
  */
 public class MainApp extends GameApplication implements MessageHandler<String> {
 
