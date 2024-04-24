@@ -42,7 +42,7 @@ import static com.almasb.fxgl.dsl.FXGL.*;
 import static com.almasb.fxgl.dsl.FXGL.geti;
 
 /**
- * @author Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)
+ * @author Alex Moore (alexmoore04) (alexstephenmoore@gmail.com)
  */
 public class PlayerComponent extends Component {
 
