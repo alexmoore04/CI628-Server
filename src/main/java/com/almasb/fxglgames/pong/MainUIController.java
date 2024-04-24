@@ -34,7 +34,7 @@ import javafx.scene.control.Label;
 import javafx.util.Duration;
 
 /**
- * @author Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)
+ * @author AlexMoore (alexmoore04) (alexstephenmoore@gmail.com)
  */
 public class MainUIController implements UIController {
 
