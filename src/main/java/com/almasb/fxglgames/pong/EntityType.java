@@ -27,7 +27,7 @@
 package com.almasb.fxglgames.pong;
 
 /**
- * @author Alex Moore (AlexM) (alexstephenmoore@gmail.com)
+ * @author Alex Moore (alexmoore04) (alexstephenmoore@gmail.com)
  */
 public enum  EntityType {
     PLAYER_1, PLAYER_2, WALL
